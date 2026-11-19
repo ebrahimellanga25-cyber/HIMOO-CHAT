@@ -18,3 +18,4 @@
     "vite": "^6.0.5"
   }
 }
+import { createClient } from "@supabase/supabase-js";
